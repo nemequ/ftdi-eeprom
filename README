@@ -1,0 +1,5 @@
+ftdi-eeprom
+===========
+
+This is just a quick utility to set the manufacturer / product /
+serial number strings in the EEPROM of FTDI devices using libftdi.
